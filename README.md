@@ -49,7 +49,7 @@ python torip.py
 Download Termux Terminal Emulator & Orbot (TOR Proxy) From Google Playstore
 
 - After installing the Orbot Follow the Instructions and setup the APP
-- Next Open texmux Update & Install the Required packages
+- Next Open Texmux - Update & Install the Required packages
 
 ```bash
 pkg up
@@ -63,7 +63,7 @@ pkg install python
 pkg install git
 ```
 
-- Clone this Respo on your device Folder & open the Git cloned Folder via Termux
+- Clone this Respo on your Device Storage & open the Git cloned Folder via Termux
 
 ### License
 
