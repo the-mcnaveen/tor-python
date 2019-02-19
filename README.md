@@ -2,7 +2,7 @@
 
 Tor Proxy - Python Scripts
 
-<p align="center">
+<p>
 <img src="https://raw.githubusercontent.com/mskian/tor-python/master/screenshot.gif" width="600" height="750">
 </p>
 
