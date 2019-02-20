@@ -27,7 +27,6 @@ except requests.ConnectionError as e:
     time.sleep(2)
     spinner.color = 'red'
     spinner.text = 'URL Error - Empty URL or Wrong URL'
-    spinner.color = 'red'
     time.sleep(2)
     spinner.fail('URL Validation Error - May be Tor is Not Enabled')
     spinner.stop()
@@ -44,7 +43,6 @@ except requests.RequestException as e:
     time.sleep(2)
     spinner.color = 'red'
     spinner.text = 'Wrong URL or Empty Field'
-    spinner.color = 'red'
     time.sleep(2)
     spinner.fail('Wrong URL or Empty Field')
     spinner.stop()
