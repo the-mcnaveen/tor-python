@@ -54,6 +54,10 @@ python torfind.py
 python torip.py
 ```
 
+```bash
+python torurl.py
+```
+
 ### For Android
 
 Download Termux Terminal Emulator & Orbot (TOR Proxy) From Google Playstore
