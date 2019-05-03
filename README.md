@@ -20,6 +20,7 @@ Tor Proxy - Python Scripts
 - `tor.py` - Check TOR Connection
 - `torfind.py` - Find the Blocked and redirect URL using TOR SOCKs proxy
 - `torip.py` - Find the IP Address Given by TOR
+- `torurl.py` - Follow the URL is Redirected or not also find the Current active URL (Using TOR & cloudscraper for Bypass the Cloudflare Enabled website/blog)
 
 ## Installation
 

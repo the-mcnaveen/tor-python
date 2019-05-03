@@ -2,3 +2,4 @@ requests==2.21.0
 beautifulsoup4==4.7.1
 PySocks==1.6.8
 halo==0.0.23
+cloudscraper==1.1.3
