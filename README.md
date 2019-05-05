@@ -29,11 +29,15 @@ Tor Proxy - Python Scripts
 ```bash
 git clone https://github.com/mskian/tor-python.git
 ```
-
 - Install Require PIP MOdules
 
 ```bash
 cd tor-python
+```
+- Install Python PIP
+
+```bash
+sudo apt install python-pip
 ```
 
 ```bash
